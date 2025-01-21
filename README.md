@@ -3,7 +3,7 @@
 The classic Snake Game, built using **WebAssembly**, **JavaScript** and **C++**.
 
 ### How to play:
-1. Visit the game here: [Snake Game](https://saadmoumine.github.io/snake-game/).
+1. Visit the game here: [Snake Game](https://saadmoumine.github.io/snake-game-SM/).
 2. Click "Start Game" to begin.
 3. Use the keyboard keys to control the snake:
    - `W`: Move Up
