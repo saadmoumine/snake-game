@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Snake Game</title>
+    <style>
+        body {
+            background-color: #333;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+
+        canvas {
+            background-color: black;
+            margin: 20px auto;
+            display: block;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Snake Game</h1>
+    <p id="score">Score: 0</p>
+    <canvas id="gameCanvas" width="400" height="400"></canvas>
+    <p>Use <strong>W, A, S, D</strong> to control the snake.</p>
+    <div id="controls">
+        <button id="startButton">Start Game</button>
+    </div>
+    <script src="output.js"></script>
+    <script src="index.js"></script>
+</body>
+
+</html>
